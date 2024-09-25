@@ -1,0 +1,23 @@
+first -> create file
+second -> add -> git add file-name
+third -> commit -> git commit -m "comments on the changes"
+fourth -> push -> git push origin main 
+
+to move backward -> cd ..
+to move forward -> cd folder name
+
+to convert folder as a git repository -> git init
+
+to add multiple files -> git add .
+to commit multiple files -> (same) git commit -m "comments on the changes"
+to connect both file in pc and repository in github -> git remote and origin link of repository
+
+to change branch name master to main -> git branch -m main
+
+to check which branch we are in -> git branc
+to change branch -> git checkout branch name
+to change branch -> git branch -m main
+to see difference from branch's -> git diff branch name
+to merge branch -> git merge branch name
+
+modifying the file
