@@ -1,10 +1,16 @@
+U - stands for untracked file "new or changed"
+M - stands for modified
+A - stands for commited
+blue line - is for modified
+green line - is form new
+
 first -> create file
 second -> add -> git add file-name
 third -> commit -> git commit -m "comments on the changes"
 fourth -> push -> git push origin main 
 
 to move backward -> cd ..
-to move forward -> cd folder name
+to move forward -> cd folder name (if you have space in the name use "folder name")
 
 to convert folder as a git repository -> git init
 
@@ -14,7 +20,7 @@ to connect both file in pc and repository in github -> git remote and origin lin
 
 to change branch name master to main -> git branch -m main
 
-to check which branch we are in -> git branc
+to check which branch we are in -> git branch
 to change branch -> git checkout branch name
 to change branch -> git branch -m main
 to see difference from branch's -> git diff branch name
